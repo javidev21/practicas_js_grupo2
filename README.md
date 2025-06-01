@@ -2,8 +2,7 @@
 
 # Practicas Javascript básico
 
-> Ejercicios del Curso de Javascript desde cero de [La Casa Informática] (https://lacasainformatica.com/).
-
+> Ejercicios del Curso de Javascript desde cero de [La Casa Informática](https://lacasainformatica.com/)
 ## Built With
 
 - Html
